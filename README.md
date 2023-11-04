@@ -17,3 +17,4 @@ Vrinda Store wants to create an annual sales report for 2022 so that the store c
 * Maharashtra, Karnataka, Uttar Pradesh, Telangana, and Tamil Nadu are the top 5 highest sales states.
 * Women of the Adult age group were the highest to place orders.
 * Amazon, Myntra, and Flipkart channels are contributing to maximum sales.
+
